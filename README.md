@@ -27,7 +27,8 @@ _**IpLookUp** is a simply python script, which can be used to Ip lookup and to g
 ## Usage Option :
 __HELP :__
 * `-h` - show help
-__LookUp__:
+
+__LOOKUP__:
 * `-v` - specify target Public IP
 
 
