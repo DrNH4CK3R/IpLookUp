@@ -1,7 +1,8 @@
 # IpLookUp
 
 ## About Tool:
-IpLookUp is a simply python script, which can be used to Ip lookup and to get information of perticualr target Ip. This tool works on both rooted Android device and Non-rooted Android device.
+_**IpLookUp** is a simply python script, which can be used to Ip lookup and to get information of perticualr target Ip._  
+> Works on both rooted Android device and Non-rooted Android device. 
 
 ### REQUIREMENTS :
 * internet
@@ -14,7 +15,7 @@ IpLookUp is a simply python script, which can be used to Ip lookup and to get in
 * [+] Ip lookup
 * [+] Easy for Beginners !
 
-## Installation [ Termux ]
+## Installation [ Termux ] :
 * `apt update && upgrade`
 * `apt install python`
 * `apt install git`
@@ -22,3 +23,16 @@ IpLookUp is a simply python script, which can be used to Ip lookup and to get in
 * `git clone https://github.com/DrNH4CK3R/IpLookUp`
 * `cd IpLookUp`
 * `python iplookup.py -v ( Victim IP )`
+
+## Usage Option :
+__HELP :__
+* `-h` - show help
+__LookUp__:
+* `-v` - specify target Public IP
+
+
+```
+ex:- python iplookup.py -v 127.0.0.1
+```
+## WARNING : 
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
