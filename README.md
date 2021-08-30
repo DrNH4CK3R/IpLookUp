@@ -13,3 +13,12 @@ IpLookUp is a simply python script, which can be used to Ip lookup and to get in
 * [+] Updated maintainence !
 * [+] Ip lookup
 * [+] Easy for Beginners !
+
+## Installation
+* `apt update && upgrade`
+* `apt install python`
+* `apt install git`
+* `apt install python2`
+* `git clone https://github.com/DrNH4CK3R/IpLookUp`
+* `cd IpLookUp`
+* `python iplookup.py ( Victim IP )`
