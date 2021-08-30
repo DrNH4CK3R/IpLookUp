@@ -14,11 +14,11 @@ IpLookUp is a simply python script, which can be used to Ip lookup and to get in
 * [+] Ip lookup
 * [+] Easy for Beginners !
 
-## Installation
+## Installation [ Termux ]
 * `apt update && upgrade`
 * `apt install python`
 * `apt install git`
 * `apt install python2`
 * `git clone https://github.com/DrNH4CK3R/IpLookUp`
 * `cd IpLookUp`
-* `python iplookup.py ( Victim IP )`
+* `python iplookup.py -v ( Victim IP )`
